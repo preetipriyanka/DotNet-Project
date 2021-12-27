@@ -1,0 +1,27 @@
+/Users/priyanka/Desktop/DotNet Project/bin/Debug/net6.0/appsettings.Development.json
+/Users/priyanka/Desktop/DotNet Project/bin/Debug/net6.0/appsettings.json
+/Users/priyanka/Desktop/DotNet Project/bin/Debug/net6.0/DotNet Project
+/Users/priyanka/Desktop/DotNet Project/bin/Debug/net6.0/DotNet Project.deps.json
+/Users/priyanka/Desktop/DotNet Project/bin/Debug/net6.0/DotNet Project.runtimeconfig.json
+/Users/priyanka/Desktop/DotNet Project/bin/Debug/net6.0/DotNet Project.dll
+/Users/priyanka/Desktop/DotNet Project/bin/Debug/net6.0/ref/DotNet Project.dll
+/Users/priyanka/Desktop/DotNet Project/bin/Debug/net6.0/DotNet Project.pdb
+/Users/priyanka/Desktop/DotNet Project/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/priyanka/Desktop/DotNet Project/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/priyanka/Desktop/DotNet Project/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/priyanka/Desktop/DotNet Project/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/priyanka/Desktop/DotNet Project/obj/Debug/net6.0/DotNet Project.csproj.AssemblyReference.cache
+/Users/priyanka/Desktop/DotNet Project/obj/Debug/net6.0/DotNet Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/priyanka/Desktop/DotNet Project/obj/Debug/net6.0/DotNet Project.AssemblyInfoInputs.cache
+/Users/priyanka/Desktop/DotNet Project/obj/Debug/net6.0/DotNet Project.AssemblyInfo.cs
+/Users/priyanka/Desktop/DotNet Project/obj/Debug/net6.0/DotNet Project.csproj.CoreCompileInputs.cache
+/Users/priyanka/Desktop/DotNet Project/obj/Debug/net6.0/DotNet Project.MvcApplicationPartsAssemblyInfo.cs
+/Users/priyanka/Desktop/DotNet Project/obj/Debug/net6.0/DotNet Project.MvcApplicationPartsAssemblyInfo.cache
+/Users/priyanka/Desktop/DotNet Project/obj/Debug/net6.0/staticwebassets.build.json
+/Users/priyanka/Desktop/DotNet Project/obj/Debug/net6.0/staticwebassets.development.json
+/Users/priyanka/Desktop/DotNet Project/obj/Debug/net6.0/scopedcss/bundle/DotNet Project.styles.css
+/Users/priyanka/Desktop/DotNet Project/obj/Debug/net6.0/DotNet Project.csproj.CopyComplete
+/Users/priyanka/Desktop/DotNet Project/obj/Debug/net6.0/DotNet Project.dll
+/Users/priyanka/Desktop/DotNet Project/obj/Debug/net6.0/ref/DotNet Project.dll
+/Users/priyanka/Desktop/DotNet Project/obj/Debug/net6.0/DotNet Project.pdb
+/Users/priyanka/Desktop/DotNet Project/obj/Debug/net6.0/DotNet Project.genruntimeconfig.cache
